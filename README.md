@@ -23,7 +23,7 @@ I am using flatpak spotify
 
 Add a Generic Monitor to your xfce 4 panel. Enter path to `spotify-panel.sh` in the Command field of the Properties section of the plugin. 
 
-Add some Launchers if you want to control the spotify from panel, like changing track to prev or next or pause or play the track. Enther path to `sp.sh` with a command
+Add some Launchers if you want to control the spotify from panel, like changing track to prev or next, pause or play the track. Enther path to `sp.sh` with a command
 
 ex) if you want to play the next track just use
 ```bash
