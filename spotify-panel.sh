@@ -41,5 +41,5 @@ if pidof spotify &> /dev/null; then
 else 
   echo "<img>${ICON_OFFLINE}</img>"
   echo "<tool>Spotify is not running</tool>"
-  echo "<click>spotify</click>"
+  echo "<click>bash -c '/usr/bin/flatpak run com.spotify.Client</click>"
 fi
